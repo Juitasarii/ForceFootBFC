@@ -60,23 +60,6 @@ UART Communication
         ↓
 Master Controller
 ```
-
----
-
-# Repository Structure
-
-```text
-ForceFootBFC/
-├── Core/
-│   ├── Inc/
-│   └── Src/
-├── Drivers/
-├── Debug/
-├── README.md
-├── .project
-└── .cproject
-```
-
 ---
 
 # Main Functions
@@ -110,8 +93,6 @@ Transfers processed sensor data from STM32 slave device to the master controller
 # Future Development
 
 * ROS2 integration
-* RTOS implementation
-* Wireless communication
 * Real-time visualization system
 * Advanced balancing algorithm
 
@@ -126,4 +107,3 @@ This project is intended for embedded systems and humanoid robotics research pur
 # Author
 
 Developed by Juita
-Embedded System & Humanoid Robot Research
