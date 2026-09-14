@@ -98,4 +98,4 @@ This project is intended for embedded systems and humanoid robotics research pur
 
 # Author
 
-Developed by Juita
+Developed by Juita Sari
