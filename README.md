@@ -82,14 +82,6 @@ Transfers processed sensor data from STM32 slave device to the master controller
 
 ---
 
-# Current Status
-
-* Stable Version
-* Final STM32 Slave Program
-* Active Development for Humanoid Robot Application
-
----
-
 # Future Development
 
 * ROS2 integration
